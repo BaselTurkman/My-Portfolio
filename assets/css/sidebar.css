@@ -25,6 +25,9 @@
 .menu-button {
   display: none;
   transition: 0.5s ease;
+  i {
+    color: white;
+  }
 }
 
 @media (max-width: 800px) {
